@@ -1,0 +1,8 @@
+git+https://github.com/Rapptz/discord.py@master#egg=discord.py
+python-dotenv==1.0.0
+requests==2.31.0
+aiohttp
+yt-dlp
+PyNaCl
+ffmpeg-python
+Pillow>=10.0.0
