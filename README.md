@@ -2,6 +2,8 @@
 
 A feature-rich Discord bot with economy system, shop, marriage system, casino games, AI chat, and more!
 
+> **Note:** I've replaced all personal information with example data so you can create your own custom bot. If you don't know how to customize it, just give it to an AI. Loser ;)
+
 ## ✨ Features
 
 ### 💰 Economy System
